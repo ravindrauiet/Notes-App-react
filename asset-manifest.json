@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Notes-App-react/static/css/main.26de7514.css",
+    "main.js": "/Notes-App-react/static/js/main.52365512.js",
+    "index.html": "/Notes-App-react/index.html",
+    "static/media/delete.svg": "/Notes-App-react/static/media/delete.979a9b2eb223851ac94313f7370e3472.svg",
+    "main.26de7514.css.map": "/Notes-App-react/static/css/main.26de7514.css.map",
+    "main.52365512.js.map": "/Notes-App-react/static/js/main.52365512.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.26de7514.css",
+    "static/js/main.52365512.js"
+  ]
+}
